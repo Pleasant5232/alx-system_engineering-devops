@@ -4,4 +4,3 @@ SendEnv LANG LC_*
     GSSAPIDelegateCredentials no
     IdentityFile ~/.ssh/school
     PasswordAuthentication no
-    
